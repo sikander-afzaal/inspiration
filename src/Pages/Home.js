@@ -9,10 +9,10 @@ const Home = () => {
           className="w-full h-full absolute top-0 left-0 object-cover object-center"
         />
         <div className="mx-auto max-w-[1500px] z-10 relative pt-18 px-5">
-          <div className="transform -translate-x-[40px] sm:-translate-x-[70px] xl:translate-x-0 xl:-ml-5 logo">
+          <div className="transform -translate-x-[40px] xl:translate-x-0 xl:-ml-5 logo">
             <img
               src="/images/white-logo.png"
-              className="w-[670px]"
+              className="w-[670px] xl:ml-16 hero-logo"
               alt="logo"
             />
           </div>
